@@ -8,9 +8,9 @@ Ingesting events from agents and holding them durably for 30 days; per-customer,
 
 ## 1.3 Solution Methodology
 
-To provide a solution for this system, I emphasized on Non-Functional requirements over functional ones. I tried to make realistic assumptions based on domains I had experienced in, so there may exist some un-realsitic assumptions in 1.3 or even un-seen parts.
+To provide a solution for this system, I emphasized on Non-Functional requirements over functional ones and also system behaviour and component specification over technology stack. I tried to make realistic assumptions based on domains I had experienced in, so there may exist some un-realsitic assumptions in 1.3 or even un-seen parts.
 
-This document is generated mostly with AI, through 3 design sessions I had in two days as a ONE shot solution to requested problem statement. I don't expect it to be deep or fully alighen with real world details.
+This document is generated mostly with AI, through 3 design sessions I had in two days as a ONE shot solution to requested problem statement. I don't expect it to be deep or fully aligned with real world details.
 
 ## 1.4 Assumptions
 
